@@ -24,6 +24,12 @@
     "linear",
     "gradient"
   ],
+  "peerDependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native":
+      "https://github.com/expo/react-native/archive/sdk-16.0.0.tar.gz",
+    "prop-types": "^15.5.10"
+  },
   "dependencies": {
     "d3-interpolate": "^1.1.5"
   }
